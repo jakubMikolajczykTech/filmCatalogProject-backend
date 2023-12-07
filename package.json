@@ -1,0 +1,14 @@
+{
+  "name": "filmcatalogproject-backend",
+  "version": "1.0.0",
+  "description": "Film catalog project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Ślęzak, Andrzej Pec, Jakub Mikołajczyk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
